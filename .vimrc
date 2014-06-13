@@ -1,3 +1,3 @@
 call pathogen#infect()
 call pathogen#helptags()
-filetype ident on
+filetype indent on
